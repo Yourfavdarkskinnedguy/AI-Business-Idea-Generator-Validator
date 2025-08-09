@@ -15,8 +15,8 @@ Suggests corrected code
 Beginner-friendly interface
 
 # Tech Stack
-Frontend: HTML, CSS, Tailwind CSS
+Frontend: HTML, CSS, Tailwind CSS, Javascript
 
-Backend: Python (Flask / FastAPI)
+Backend: Python (Flask)
 
 AI Engine: Google Gemini API
